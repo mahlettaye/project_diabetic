@@ -10,3 +10,4 @@ env.bak
 *.log
 /.ipynb_checkpoints
 mlruns
+data
